@@ -11,6 +11,6 @@
 
 ## run snpEff
 
-```snpEff -Xmx128g filtered.vcf > filtered.ann.vcf```
+```snpEff -Xmx128g GRCh38.99 filtered.vcf > filtered.ann.vcf```
 
 --> increase memory to -Xmx128g otherwise it crashes!
